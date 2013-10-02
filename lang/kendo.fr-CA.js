@@ -112,7 +112,7 @@ kendo.ui.Validator.prototype.options.messages =
 
 /* VALIDATOR MESSAGES
 ****************************************************************************/
-  required: "{0} is obligatoire",
+  required: "{0} est obligatoire",
   pattern: "{0} n'est pas valide",
   min: "{0} doit être supérieur ou égal à {1}",
   max: "{0} doit être inférieur ou égal à {1}",
